@@ -17,7 +17,9 @@ To run the notebooks please install the following libaries:
   ## Notebooks
 
   This repository contains three notebooks.
+  
   Please pay attention to change the main directory in all notebooks
+
   Notebooks have to be run in the following order:
 
 - Data_cleaning : to clean the original data exctracted with DeepLabCut
